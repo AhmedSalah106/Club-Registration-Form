@@ -31,7 +31,7 @@ namespace Registeration
             {
                 this.NameWorn.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                 NameWorn.ForeColor = Color.Red;
-                NameWorn.Text = "Name Must Contain At Least 5 Character";
+                NameWorn.Text = "Name Must Contain At Least 5 Characters";
                 T = false;
             }
 
